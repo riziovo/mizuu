@@ -5,7 +5,7 @@ This is a public facing repository to keep track of the project progress and ann
 
 
 What is MIZU?
-It is a web app to visualize algorithms and data structure routines live on screen. The user will be able to see it the transformations and data movements as it responds to user events.
+It is a web app to visualize algorithms and data structure routines live on screen. The user will be able to see the transformations and data movements , real-time, as it responds to user events.
 
 A working demo is available on my website.
 
