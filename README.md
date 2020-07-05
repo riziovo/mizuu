@@ -1,5 +1,5 @@
-# mizuu
-An Interactive ADT Visualizer
+# Mizu
+<b>An Interactive ADT Visualizer</b>
 
 This is a public facing repository to keep track of the project progress and announcements.
 
@@ -9,9 +9,11 @@ It is a web app to visualize algorithms and data structure routines live on scre
 
 A working demo is available on my website.
 
-Link >> www.riziovo.com/projects.html#projects
+<b>Link</b> >> www.riziovo.com/projects.html#projects
 
 Mizu goes live in September.
 
-Backend hosts the Server and the Algorithms library which power the simulations on the backend. This Algorithms library houses ADTs based on structures like Tree, Heap, Trie, Queue, Stack, List, and Graph. All of the ADTs in this library are my own implementations. As a function of being an interactive visualizer, the simulations on user side are real-time, not pre-rendered.
+Backend hosts the Server and the Algorithms library which power the simulations on the backend. This Algorithms library houses ADTs based on structures like Tree, Heap, Trie, Queue, Stack, List, and Graph. 
+
+All of the ADTs in this library are my own implementations. As a function of being an interactive visualizer, the simulations on user side are real-time, not pre-rendered.
 
