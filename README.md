@@ -8,11 +8,13 @@ MIZU is a web app to visualize algorithms and data structure routines live on sc
 
 A working demo is available on youtube.
 
+> <b> ~ Code will be live in September~ </b>
+
 <b>Link</b> >> https://www.youtube.com/watch?v=FQ6ENe4olaE
 
 Mizu goes live in September.
 
-> ## ~watch this space for updates!
+> # ~watch this space for updates!
 
 Backend hosts the Server and the Algorithms library which power the simulations on the backend. This Algorithms library houses ADTs based on structures :
 > - Tree 
