@@ -80,12 +80,3 @@ TECH
 
 ### And of course Internets and People! Without them I'd get nowhere.
 
-License
-----
-
-MIT
-
-
-**Free Software, Hell Yeah!**
-
-
